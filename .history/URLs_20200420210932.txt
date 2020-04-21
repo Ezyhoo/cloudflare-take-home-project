@@ -1,0 +1,2 @@
+project url: https://my-worker.yizhi.workers.dev/
+github repo url: https://github.com/Ezyhoo/cloudflare-take-home-project
